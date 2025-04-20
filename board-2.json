@@ -1,0 +1,34 @@
+[
+    {
+        "names": ["bus=snoc,qmi-board-id=ff,qmi-chip-id=140,variant=xiaomi_davinci"],
+        "data": "bd_f10.bin"
+    },
+    {
+	"names": ["bus=snoc,qmi-board-id=ff,qmi-chip-id=140,variant=xiaomi_davinciin"],
+	"data": "bd_f10in.bin"
+    },
+    {
+	"names": ["bus=snoc,qmi-board-id=ff,qmi-chip-id=140,variant=xiaomi_sweet"],
+	"data": "bd_k6gl.bin"
+    },
+    {
+	"names": ["bus=snoc,qmi-board-id=ff,qmi-chip-id=140,variant=xiaomi_sweetin"],
+	"data": "bd_k6in.bin"
+    },
+    {
+	"names": ["bus=snoc,qmi-board-id=ff,qmi-chip-id=140,variant=xiaomi_tucana"],
+	"data": "bd_f4gl.bin"
+    },
+    {
+	"names": ["bus=snoc,qmi-board-id=ff,qmi-chip-id=140,variant=xiaomi_tucanacn"],
+	"data": "bd_f4cn.bin"
+    },
+    {
+	"names": ["bus=snoc,qmi-board-id=ff,qmi-chip-id=140,variant=xiaomi_surya"],
+	"data": "bdf_j20g.bin"
+    },
+    {
+	"names": ["bus=snoc,qmi-board-id=ff,qmi-chip-id=140,variant=xiaomi_karna"],
+	"data": "bdf_j20i.bin"
+    }
+]
