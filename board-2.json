@@ -30,5 +30,17 @@
     {
 	"names": ["bus=snoc,qmi-board-id=ff,qmi-chip-id=140,variant=xiaomi_karna"],
 	"data": "bdf_j20i.bin"
+    },
+    {
+	"names": ["bus=snoc,qmi-board-id=ff,qmi-chip-id=140,variant=xiaomi_toco"],
+	"data": "bd_f4lg.bin"
+    },
+    {
+	"names": ["bus=snoc,qmi-board-id=ff,qmi-chip-id=140,variant=xiaomi_tococn"],
+	"data": "bd_f4lc.bin"
+    },
+    {
+	"names": ["bus=snoc,qmi-board-id=ff,qmi-chip-id=140,variant=xiaomi_tocoin"],
+	"data": "bd_f4li.bin"
     }
 ]
