@@ -4,43 +4,47 @@
         "data": "bd_f10.bin"
     },
     {
-	"names": ["bus=snoc,qmi-board-id=ff,qmi-chip-id=140,variant=xiaomi_davinciin"],
-	"data": "bd_f10in.bin"
+        "names": ["bus=snoc,qmi-board-id=ff,qmi-chip-id=140,variant=xiaomi_davinciin"],
+        "data": "bd_f10in.bin"
     },
     {
-	"names": ["bus=snoc,qmi-board-id=ff,qmi-chip-id=140,variant=xiaomi_sweet"],
-	"data": "bd_k6gl.bin"
+        "names": ["bus=snoc,qmi-board-id=ff,qmi-chip-id=140,variant=xiaomi_sweet"],
+        "data": "bd_k6gl.bin"
     },
     {
-	"names": ["bus=snoc,qmi-board-id=ff,qmi-chip-id=140,variant=xiaomi_sweetin"],
-	"data": "bd_k6in.bin"
+        "names": ["bus=snoc,qmi-board-id=ff,qmi-chip-id=140,variant=xiaomi_sweetin"],
+        "data": "bd_k6in.bin"
     },
     {
-	"names": ["bus=snoc,qmi-board-id=ff,qmi-chip-id=140,variant=xiaomi_tucana"],
-	"data": "bd_f4gl.bin"
+        "names": ["bus=snoc,qmi-board-id=ff,qmi-chip-id=140,variant=xiaomi_tucana"],
+        "data": "bd_f4gl.bin"
     },
     {
-	"names": ["bus=snoc,qmi-board-id=ff,qmi-chip-id=140,variant=xiaomi_tucanacn"],
-	"data": "bd_f4cn.bin"
+        "names": ["bus=snoc,qmi-board-id=ff,qmi-chip-id=140,variant=xiaomi_tucanacn"],
+        "data": "bd_f4cn.bin"
     },
     {
-	"names": ["bus=snoc,qmi-board-id=ff,qmi-chip-id=140,variant=xiaomi_surya"],
-	"data": "bdf_j20g.bin"
+        "names": ["bus=snoc,qmi-board-id=ff,qmi-chip-id=140,variant=xiaomi_surya"],
+        "data": "bdf_j20g.bin"
     },
     {
-	"names": ["bus=snoc,qmi-board-id=ff,qmi-chip-id=140,variant=xiaomi_karna"],
-	"data": "bdf_j20i.bin"
+        "names": ["bus=snoc,qmi-board-id=ff,qmi-chip-id=140,variant=xiaomi_karna"],
+        "data": "bdf_j20i.bin"
     },
     {
-	"names": ["bus=snoc,qmi-board-id=ff,qmi-chip-id=140,variant=xiaomi_toco"],
-	"data": "bd_f4lg.bin"
+        "names": ["bus=snoc,qmi-board-id=ff,qmi-chip-id=140,variant=xiaomi_toco"],
+        "data": "bd_f4lg.bin"
     },
     {
-	"names": ["bus=snoc,qmi-board-id=ff,qmi-chip-id=140,variant=xiaomi_tococn"],
-	"data": "bd_f4lc.bin"
+        "names": ["bus=snoc,qmi-board-id=ff,qmi-chip-id=140,variant=xiaomi_tococn"],
+        "data": "bd_f4lc.bin"
     },
     {
-	"names": ["bus=snoc,qmi-board-id=ff,qmi-chip-id=140,variant=xiaomi_tocoin"],
-	"data": "bd_f4li.bin"
+        "names": ["bus=snoc,qmi-board-id=ff,qmi-chip-id=140,variant=xiaomi_tocoin"],
+        "data": "bd_f4li.bin"
+    },
+    {
+        "names": ["bus=snoc,qmi-board-id=ff,qmi-chip-id=30224,variant=google_sunfish"],
+        "data": "bdwlan-sunfish.bin"
     }
 ]
