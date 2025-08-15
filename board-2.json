@@ -24,7 +24,7 @@
         "data": "bd_f4cn.bin"
     },
     {
-        "names": ["bus=snoc,qmi-board-id=ff,qmi-chip-id=140,variant=xiaomi_surya"],
+        "names": ["bus=snoc,qmi-board-id=ff,qmi-chip-id=30214,variant=xiaomi_surya"],
         "data": "bdf_j20g.bin"
     },
     {
