@@ -16,6 +16,10 @@
         "data": "bd_k6in.bin"
     },
     {
+        "names": ["bus=snoc,qmi-board-id=ff,qmi-chip-id=140,variant=xiaomi_sweet_k6a"],
+        "data": "bd_k6agl.bin"
+    },
+    {
         "names": ["bus=snoc,qmi-board-id=ff,qmi-chip-id=140,variant=xiaomi_tucana"],
         "data": "bd_f4gl.bin"
     },
